@@ -1,7 +1,6 @@
 # 👋 Olá! Sou Jhonatan!
 
-
----
+<br><br>
 
 💻 **Desenvolvedor de Software** | Estagiário na **Vivo**  
 
