@@ -1,40 +1,34 @@
-# 👋 Olá! Sou Jhonatan!
+<h1>Olá! Sou Jhonatan!</h1>
 
-💻 **Desenvolvedor de Software** | Estagiário na **Vivo**  
-
----
-
-### 🔥 Objetivo  
-
-Busco atuar em projetos de grande porte como **desenvolvedor backend**, aplicando meus conhecimentos adquiridos em projetos pessoais e acadêmicos.
+<p>
+Atualmente estagiando na Vivo, com foco em desenvolvimento de sistemas e aprendizado constante.<br/>
+</p>
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas  
+## 💻 Stack Atual
 
-#### **Linguagens & Frameworks**  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-#### **Banco de Dados**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### **Ferramentas**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" title="Java" height="40" />
+  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="40" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="40" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="40" />
+</p>
 
 ---
 
-### 🎓 Formação  
+## 🎯 Objetivo
 
-📚 **Análise e Desenvolvimento de Sistemas** - *Universidade Positivo (02/2025 - 12/2026)*  
-🔧 **Técnico em Desenvolvimento de Sistemas** - *Senai (02/2024 - 08/2025)*  
+Atuar como desenvolvedor Java, aplicando boas práticas de código, arquitetura e testes. Busco projetos desafiadores que me permitam crescer profissionalmente e contribuir com qualidade técnica.
 
 ---
 
-### 📬 Conecte-se Comigo!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhonatan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jhonatanpereira--/)
+## 📫 Contato
 
+- LinkedIn: [linkedin.com/in/jhonatanpereira--](https://www.linkedin.com/in/jhonatanpereira--/)
+- Email: jhonatan99653@gmail.com
