@@ -30,10 +30,12 @@ Atuar como desenvolvedor Java, aplicando boas práticas de código, arquitetura 
 
 ## 📫 Contato
 
-<span>
-  <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" height="30"/>
-</span>
-&nbsp;&nbsp;
-<span>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Email"/>
-</span>
+<p>
+  <a href="https://www.linkedin.com/in/jhonatanpereira--/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:jhonatan99653@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Email"/>
+  </a>
+</p>
