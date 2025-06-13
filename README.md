@@ -30,5 +30,10 @@ Atuar como desenvolvedor Java, aplicando boas práticas de código, arquitetura 
 
 ## 📫 Contato
 
-- LinkedIn: [linkedin.com/in/jhonatanpereira--](https://www.linkedin.com/in/jhonatanpereira--/)
-- Email: jhonatan99653@gmail.com
+<span>
+  <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" height="30"/>
+</span>
+&nbsp;&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Email"/>
+</span>
